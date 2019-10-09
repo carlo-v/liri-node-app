@@ -6,7 +6,7 @@ In this case, the user will be able to type in the name of a song or artist, and
 
 This app is also able to return information about any movie an unser types in. This is achived using the OMDB API and also, the user can get information about concerts using Bands in Town. 
 
-Pretty much, users can get tons of info here.
+Pretty much, users can get tons of info here about songs, shows and movies.
 
 ## How it works:
 
